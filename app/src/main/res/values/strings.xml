@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android SQLite Example</string>
+    <string name="product_name">Product name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_quantity">Enter quantity</string>
+    <string name="Select">Select</string>
+
+
+    <string-array name="array_name">
+        <item>Array Item One</item>
+        <item>Array Item Two</item>
+        <item>Array Item Three</item>
+    </string-array>
+
+</resources>
